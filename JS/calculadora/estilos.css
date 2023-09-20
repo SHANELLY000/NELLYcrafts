@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+}
+
+body{
+    font-family: arial, helvetica, sans-serif;
+    background: #e03daf;
+    color:#b365b6;
+}
+
+.contenedor{
+    width: 300px;
+    margin: auto;
+    background: #eee5e9;
+    padding: 20px;
+}
+
+form p{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+input[type="text"]{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+}
+/* comentario CSS*/
+.btn{
+    margin: 0 auto;
+    width: 18%;
+    background: #cf5c36;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 12px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.suma{
+    background: rgb(250, 80, 236);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.suma{
+    background: #cf36ae;
+    color: rgb(80, 247, 224);
+}
+
+.resta{
+    background: rgb(80, 250, 241);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.resta{
+    background: #6c36cf;
+    color: rgb(80, 247, 94);
+}
+
+.multi{
+    background: rgb(250, 80, 179);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.multi{
+    background: #364dcf;
+    color: rgb(100, 247, 80);
+}
+
+.divi{
+    background: rgb(250, 233, 80);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.divi{
+    background: #cf6636;
+    color: rgb(43, 246, 253);
+}
+
+.resi{
+    background: rgb(41, 86, 235);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.resi{
+    background: #cf3671;
+    color: rgb(76, 240, 240);
+}
