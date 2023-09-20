@@ -33,7 +33,7 @@ Contact Information
 If you have any questions or need to reach out, feel free to contact me:
 
 [Contact Information]
-EMAIL
+[EMAIL](shanellylanza2004@gmail.com)
 [PHONE](504 8817-2535)
-INSTAGRAM
+[INSTAGRAM](shanellylanza)
 Document Management: Repositories can serve as centralized document management systems in organizations, facilitating the storage, retrieval, and organization of documents for easy access and compliance.
