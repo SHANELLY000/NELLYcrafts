@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background:rgb(164, 12, 211) ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contenedor{
+    margin: 150px auto;
+    width: 600px;
+}
+
+table{
+    background: white;
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td{
+    padding: 20px;
+}
+
+thead{
+    background: aqua;
+    border-bottom: solid 5px pink;
+    color: white;
+}
+
+tr:nth-child(even){
+    background: rgb(139, 114, 82);
+}
+
+tr:hover td{
+    background: rgb(59, 121, 100);
+    color: rgb(109, 37, 104);
+}

@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background:rgb(178, 211, 200) ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contenedor{
+    margin: 200px auto;
+    width: 800px;
+}
+
+table{
+    background: white;
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td{
+    padding: 10px;
+    border-image-width: 5px;
+}
+
+thead{
+    background: rgb(42, 184, 73);
+    border-bottom: solid 5px pink;
+    color: white;
+}
+
+td:nth-child(0){
+    background: rgb(18, 120, 179);
+}
+
+tr:hover td{
+    background: rgb(25, 188, 209);
+    color: rgb(43, 102, 126);
+}
+
+img{
+    width: 150px;
+}

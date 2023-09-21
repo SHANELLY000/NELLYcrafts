@@ -1,0 +1,54 @@
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.exe
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.deps.json
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.runtimeconfig.json
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.dll
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.pdb
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.AssemblyReference.cache
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora_con_botones.Form1.resources
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora_con_botones.Properties.Resources.resources
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.GenerateResource.cache
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.AssemblyInfoInputs.cache
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.AssemblyInfo.cs
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.CoreCompileInputs.cache
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.dll
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\refint\Calculadora con botones.dll
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.pdb
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.genruntimeconfig.cache
+C:\Users\PC-21\source\repos\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\ref\Calculadora con botones.dll
+E:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.exe
+E:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.deps.json
+E:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.runtimeconfig.json
+E:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.dll
+E:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.pdb
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.AssemblyReference.cache
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora_con_botones.Form1.resources
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora_con_botones.Properties.Resources.resources
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.GenerateResource.cache
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.AssemblyInfoInputs.cache
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.AssemblyInfo.cs
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.CoreCompileInputs.cache
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.dll
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\refint\Calculadora con botones.dll
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.pdb
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.genruntimeconfig.cache
+E:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\ref\Calculadora con botones.dll
+F:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.exe
+F:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.deps.json
+F:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.runtimeconfig.json
+F:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.dll
+F:\Calculadora con botones\Calculadora con botones\bin\Debug\net6.0-windows\Calculadora con botones.pdb
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.AssemblyReference.cache
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora_con_botones.Form1.resources
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora_con_botones.Properties.Resources.resources
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.GenerateResource.cache
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.GeneratedMSBuildEditorConfig.editorconfig
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.AssemblyInfoInputs.cache
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.AssemblyInfo.cs
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.csproj.CoreCompileInputs.cache
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.dll
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\refint\Calculadora con botones.dll
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.pdb
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\Calculadora con botones.genruntimeconfig.cache
+F:\Calculadora con botones\Calculadora con botones\obj\Debug\net6.0-windows\ref\Calculadora con botones.dll
